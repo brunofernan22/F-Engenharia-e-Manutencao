@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://fengenhariaemanutencao.ga/sitemap.xml
+Sitemap: https://fengenhariaemanutencao.ga/sitemap.xml
