@@ -3,5 +3,6 @@ Disallow: /nogooglebot/
 
 User-agent: *
 Allow: /
+Allow: /index.html
 
 Sitemap: https://fengenhariaemanutencao.ga/sitemap.xml
