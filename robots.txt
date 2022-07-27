@@ -4,5 +4,8 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 Allow: /index.html
+Allow: /terms.html
+Allow: /policy.html
+Allow: /privacy.html
 
 Sitemap: https://fengenhariaemanutencao.ga/sitemap.xml
